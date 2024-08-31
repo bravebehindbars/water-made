@@ -1,0 +1,95 @@
+#container{
+	display:;
+	flex-direction:;
+	background-color:;
+	/*this one works for the row placement*/
+	justify-content: ;
+	/*this one works for the column placement*/
+	align-items:;
+	height: 100%;
+	margin: 2px;
+	
+}
+/*.head {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+	border: black;
+}
+.main {
+	background-color: lightblue;
+	height: 300px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+
+}
+/*.submain {
+	display: flex;
+	flex-direction: row;
+}*/
+.one {
+	background-color: whitesmoke;
+	border: 1px solid red;
+	flex: 1;
+	margin: 20px;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	flex-basis: 20%;
+}
+/*.submain2 {
+	display: flex;
+	flex-direction: row;
+}*/
+#three {
+	flex: 2;
+}
+#one {
+	flex: ;
+}
+.footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	border: black;
+}
+contact
+
+/* bottom of the body cards div style*/
+
+.cards {
+	display: flex;
+	flex-direction: column;
+}
+.section heading {
+	color: yellow;
+}
+
+body {
+	background-color: ;
+}
+h2 {
+	text-align: center;
+}
+
+header {
+            background-color: wheat;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+.image-about {
+	width: ;
+}
+footer {
+            background-color: wheat;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
